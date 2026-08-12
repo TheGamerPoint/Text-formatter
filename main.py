@@ -1,4 +1,3 @@
-# This autoclicker belongs to TheGamerPoint
 # https://github.com/TheGamerPoint/Text-formatter
 # If you have any bugs you want to report DM thegamerpoint on discord user id: 1076614414276493362
 
